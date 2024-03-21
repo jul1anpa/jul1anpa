@@ -21,5 +21,6 @@ My name is **Julian Payne** and I am a software development student at Ivy Tech 
 - Unity
 
 ## Connect with me📧
+[**Send Email**](mailto:paynejulian1998@gmail.com)
 [**LinkedIn**](www.linkedin.com/in/jul1anpa)
 
