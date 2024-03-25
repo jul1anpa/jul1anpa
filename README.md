@@ -2,7 +2,7 @@
 
 My name is **Julian Payne** and I am a software development student at Ivy Tech Community College in Indianapolis, Indiana. I am currently building out my knowledge of front-end and back-end technologies and have provided a list of languages and frameworks I have worked with below:
 
-## Technologies💾
+## Technologies 💾
 **Languages**
 
 ![C#](https://img.shields.io/badge/C%23-white?style=flat-square&logo=csharp&logoColor=white&color=%23512BD4
@@ -26,7 +26,7 @@ My name is **Julian Payne** and I am a software development student at Ivy Tech 
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=black&color=white
 )
 
-## Connect with me📧
+## Connect with me 📧
 [![Find me on LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=white&color=%230A66C2
 )](www.linkedin.com/in/jul1anpa)
 [![Email Me](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=%23EA4335&color=white
